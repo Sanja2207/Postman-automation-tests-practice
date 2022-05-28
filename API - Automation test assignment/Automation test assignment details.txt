@@ -1,0 +1,5 @@
+Using the testing site https://gorest.co.in/, write automation tests for the following endpoints:
+
+1. Create a new user
+2. Update user details
+3. Delete user
